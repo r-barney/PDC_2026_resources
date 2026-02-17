@@ -4,18 +4,21 @@
 Resources for the PDC summit - healthcare
 
 # Presentation Resources
+
+### Websites ###
+- https://decarbonization.visualcapitalist.com/all-commercially-available-long-duration-energy-storage-technologies-in-one-chart/?utm_source=chatgpt.com
+- https://compassenergystorage.com/energy-storage-and-renewable-energy/
 - https://www.usgs.gov/media/images/typical-energy-storage-capacity-compared-typical-discharge-duration-various-geologic
 
 
-### Papers ###
+### Papers & Reports ###
 - W. Mackenzie, “Energy Storage’s Meteoric Rise Breaks Another Record.” Available: https://www.woodmac.com/press-releases/2024-press-releases/energy-storages-meteoric-rise-breaks-another-record/#:~:text=The%20U.S.%20energy%20storage%20market,(ACP)%20and%20Wood%20Mackenzie.
 - “US energy storage installations grow 33% year-over-year,” Energy Storage. Available: https://www.ess-news.com/2025/03/20/us-energy-storage-installations-grow-33-year-over-year/#:~:text=Over%2012.3%20GW%20and%2037.1,reach%2013.3%20GW%20in%202025. 
 - -Walter, S. Butler-Sloss, K. Bond. “The Rise of Batteries in Six Charts and Not Too Many Numbers”. RMI. Available: https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/
-- Energy storage and renewables beyond wind, hydro, solar make up 4% of U.S. power capacity. U.S. Energy Information Administration. May, 25, 2017. https://www.eia.gov/todayinenergy/detail.php?id=%2031372 
+- Energy storage and renewables beyond wind, hydro, solar make up 4% of U.S. power capacity. U.S. Energy Information Administration. May, 25, 2017. https://www.eia.gov/todayinenergy/detail.php?id=%2031372
 
-
-### Reports ###
-
+- Gur, Turgut M., 2018, "Review of electrical energy storage technologies, materials and systems: challenges and prospects for large-scale grid storage" Energy & Environmental Science, 11, p.2696 - 2767. DOI: 10.1039/c8ee01419a
+- 
 
 ### Open Access Tools ###
 - Storage Data Tools: https://www.nrel.gov/storage/data-tools 
