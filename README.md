@@ -8,6 +8,7 @@ Resources for the PDC summit - healthcare
 ### Websites ###
 - https://compassenergystorage.com/energy-storage-and-renewable-energy/
 - https://www.usgs.gov/media/images/typical-energy-storage-capacity-compared-typical-discharge-duration-various-geologic
+- https://www.motive-power.com/all-commercially-available-long-duration-energy-storage-technologies-in-one-chart/ 
 
 
 ### Papers & Reports ###
