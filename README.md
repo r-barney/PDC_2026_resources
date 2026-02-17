@@ -6,7 +6,6 @@ Resources for the PDC summit - healthcare
 # Presentation Resources
 
 ### Websites ###
-- https://decarbonization.visualcapitalist.com/all-commercially-available-long-duration-energy-storage-technologies-in-one-chart/?utm_source=chatgpt.com
 - https://compassenergystorage.com/energy-storage-and-renewable-energy/
 - https://www.usgs.gov/media/images/typical-energy-storage-capacity-compared-typical-discharge-duration-various-geologic
 
