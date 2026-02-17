@@ -16,9 +16,11 @@ Resources for the PDC summit - healthcare
 - “US energy storage installations grow 33% year-over-year,” Energy Storage. Available: https://www.ess-news.com/2025/03/20/us-energy-storage-installations-grow-33-year-over-year/#:~:text=Over%2012.3%20GW%20and%2037.1,reach%2013.3%20GW%20in%202025. 
 - -Walter, S. Butler-Sloss, K. Bond. “The Rise of Batteries in Six Charts and Not Too Many Numbers”. RMI. Available: https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/
 - Energy storage and renewables beyond wind, hydro, solar make up 4% of U.S. power capacity. U.S. Energy Information Administration. May, 25, 2017. https://www.eia.gov/todayinenergy/detail.php?id=%2031372
+- Battery storage outlook boosted by thirst for firm power. Available: https://www.reuters.com/business/energy/battery-storage-outlook-boosted-by-thirst-firm-power--reeii-2026-02-03/
 
 - Gur, Turgut M., 2018, "Review of electrical energy storage technologies, materials and systems: challenges and prospects for large-scale grid storage" Energy & Environmental Science, 11, p.2696 - 2767. DOI: 10.1039/c8ee01419a
 - Shan, R., Reagan, J., Castellanos, S., Kurtz, S., Kittner, N., 2022, "Evaluating emergying long-duration energy storage technologies". Renewable and Sustainable Energy Reviews. 159. https://doi.org/10.1016/j.rser.2022.112240
+- Mahadevan, V., Raja S, S., Rusho, M.A., Yishak, S., "Critical review of energy storage systems: A comparative assessment of mechanisms, advantages, challenges, and integration with renewable energy" Results in Engineering. 26 (2025). https://doi.org/10.1016/j.rineng.2025.105589
 
 ### Open Access Tools ###
 - Storage Data Tools: https://www.nrel.gov/storage/data-tools 
