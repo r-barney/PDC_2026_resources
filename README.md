@@ -8,7 +8,7 @@ Resources for the PDC summit - healthcare
 
 
 ### Papers ###
-- W. Mackenzie, “Energy Storage’s Meteoric Rise Breaks Another Record.” Available: https://www.woodmac.com/press-releases/2024-press-releases/energy-storages-meteoric-rise-breaks-another-record/?utm_source=chatgpt.comM.
+- W. Mackenzie, “Energy Storage’s Meteoric Rise Breaks Another Record.” Available: https://www.woodmac.com/press-releases/2024-press-releases/energy-storages-meteoric-rise-breaks-another-record/#:~:text=The%20U.S.%20energy%20storage%20market,(ACP)%20and%20Wood%20Mackenzie.
 - Maisch, “US energy storage installations grow 33% year-over-year,” Energy Storage. Available: https://www.ess-news.com/2025/03/20/us-energy-storage-installations-grow-33-year-over-year/D.
 - -Walter, S. Butler-Sloss, K. Bond. “The Rise of Batteries in Six Charts and Not Too Many Numbers”. RMI. Available: https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/ 
 
