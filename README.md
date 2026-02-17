@@ -19,6 +19,7 @@ Resources for the PDC summit - healthcare
 - Battery storage outlook boosted by thirst for firm power. Available: https://www.reuters.com/business/energy/battery-storage-outlook-boosted-by-thirst-firm-power--reeii-2026-02-03/
 - Blair, Nate, Chad Augustine, Wesley Cole, et al. 2022. Storage Futures Study: Key Learnings for the Coming Decades. Golden, CO:
 National Renewable Energy Laboratory. NREL/TP-7A40-81779. https://www.nrel.gov/docs/fy22osti/81779.pdf
+- Viswanathan, V., Mongrid, K., Franks, R., Li, X., Sprenkle, V., Baxter, R., "2022 Grid Energy Storage Technology Cost and Performance Assessment". Energy Storage Grand Challenge Cost and Performance Assessment 2022. 
 
 - Gur, Turgut M., 2018, "Review of electrical energy storage technologies, materials and systems: challenges and prospects for large-scale grid storage" Energy & Environmental Science, 11, p.2696 - 2767. DOI: 10.1039/c8ee01419a
 - Shan, R., Reagan, J., Castellanos, S., Kurtz, S., Kittner, N., 2022, "Evaluating emergying long-duration energy storage technologies". Renewable and Sustainable Energy Reviews. 159. https://doi.org/10.1016/j.rser.2022.112240
