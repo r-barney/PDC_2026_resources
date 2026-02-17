@@ -18,7 +18,7 @@ Resources for the PDC summit - healthcare
 - Energy storage and renewables beyond wind, hydro, solar make up 4% of U.S. power capacity. U.S. Energy Information Administration. May, 25, 2017. https://www.eia.gov/todayinenergy/detail.php?id=%2031372
 
 - Gur, Turgut M., 2018, "Review of electrical energy storage technologies, materials and systems: challenges and prospects for large-scale grid storage" Energy & Environmental Science, 11, p.2696 - 2767. DOI: 10.1039/c8ee01419a
-- 
+- Shan, R., Reagan, J., Castellanos, S., Kurtz, S., Kittner, N., 2022, "Evaluating emergying long-duration energy storage technologies". Renewable and Sustainable Energy Reviews. 159. https://doi.org/10.1016/j.rser.2022.112240
 
 ### Open Access Tools ###
 - Storage Data Tools: https://www.nrel.gov/storage/data-tools 
